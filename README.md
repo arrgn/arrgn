@@ -17,7 +17,7 @@ I'm currently working on [ctf 444](https://ctf-444.ru) project.<br>I'm currently
 ![](https://github-profile-trophy.vercel.app/?username=arrgn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arrgn&icon=0&color=0)](https://visitcount.itsvg.in)
