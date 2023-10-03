@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on [ctf 444](https://ctf-444.ru) project.<br>I'm currently learning NodeJS, Python and Unity.
+I'm currently working on [ctf 444](https://ctf-444.ru) project.<br>I'm currently learning NodeJS, .NET and Unity.
 
 
 ## 🌐 Socials:
