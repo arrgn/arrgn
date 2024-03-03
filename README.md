@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with CMake and gRPC<br>🌱 I’m currently learning c++ libraries and frameworks from [roadmap](https://roadmap.sh/cpp)<br>⚡ Fun fact: it's easier to live without c++
+🤝 I’m looking for help with CMake and gRPC<br>🌱 I’m currently learning C++ libraries and frameworks from [roadmap](https://roadmap.sh/cpp)<br>⚡ Fun fact: it's easier to live without C++
 
 
 ## 🌐 Socials:
