@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with CMake and gRPC<br>🌱 I’m currently learning C++ libraries and frameworks from [roadmap](https://roadmap.sh/cpp)<br>⚡ Fun fact: it's easier to live without C++
+🤝 I’m looking for some free time.<br>🌱 I’m currently working on Eternal Rifts game and a few C++ pet projects.<br>⚡ Fun fact: it's easier to live without C++.
 
 
 ## 🌐 Socials:
